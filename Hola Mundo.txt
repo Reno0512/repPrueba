@@ -7,4 +7,9 @@ cambio desde el git
 
 
 
-estoy modifcanco para ocasionar un conflicto
+otro cambio desde el WEB
+
+
+
+estoy modificando para ocasionar un conflicto
+
